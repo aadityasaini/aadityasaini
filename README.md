@@ -2,8 +2,7 @@
 <h3 align="center">I build and deploy AI systems for manufacturing, BPO, and finance operations</h3>
 
 <p align="center">
-  <a href="[YOUR_LINKEDIN_URL]"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="[YOUR_NEWSLETTER_URL]"><img src="https://img.shields.io/badge/Newsletter-AI%20at%20Work-black?style=flat&logo=substack&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/sainiaaditya/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
