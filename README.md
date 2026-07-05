@@ -11,7 +11,7 @@
 
 Co-Founder & COO at **9AI**,
 
-People building AI can't talk to the business, and business leaders can't evaluate what they're buying. I sit in the middle, I ship the pipeline and I close the deal.
+People building AI can't talk to the business, and business leaders can't evaluate what they're buying. I sit in the middle, ship the actual pipelines, and close the deals.
 
 - Deployed AI implementation systems across manufacturing, BPO, and finance clients
   
@@ -20,19 +20,7 @@ People building AI can't talk to the business, and business leaders can't evalua
 
 ### Focus areas
 
-`Document Intelligence` · `RAG Architecture` · `Hybrid Retrieval & Reranking` · `Agentic Systems` · `Evaluation Frameworks` · `Structured Extraction (Pydantic)`
-
----
-
-### Toolbox
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white">
-  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white">
-  <img src="https://img.shields.io/badge/Docling-black?style=flat">
-  <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white">
-</p>
+`Document Intelligence` · `RAG Architecture` · `Hybrid Retrieval & Reranking` · `Agentic Systems` · `Evaluation Frameworks`
 
 ---
 
