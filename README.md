@@ -11,6 +11,8 @@
 
 Co-Founder & COO at **9AI**,
 
+I lead client delivery, and AI strategy at 9AI, turning enterprise AI problems into shipped, production pipelines. I build the systems hands-on, sell them to the clients who need them, and run the teams that deliver them, covering manufacturing, BPO operations, finance workflows. 
+
 People building AI can't talk to the business, and business leaders can't evaluate what they're buying. I sit in the middle, ship the actual pipelines, and close the deals.
 
 - Deployed AI implementation systems across manufacturing, BPO, and finance clients
